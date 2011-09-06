@@ -1,0 +1,1 @@
+This Powershell script will allow you to create a public folder ($pfolder) underneath a specified "Mailboxes" public folder, and set up transport rules to BCC any messages sent to/from a user to this public folder.  It also analyzes the SCL of incoming mail, and places all SCL 9 e-mail into a "Junk E-mail" subfolder.
